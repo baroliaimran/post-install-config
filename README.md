@@ -77,8 +77,7 @@ To configure users, you must be in the Agent Panel, then click Users, then click
 <br />
 
 <p>
-<img src="![OS Ticket 7](https://github.com/user-attachments/assets/c177900e-d1d1-4fe6-b55c-d50170dd0156)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c177900e-d1d1-4fe6-b55c-d50170dd0156" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configuring SLA is as simple as going to the Admin Panel, clicking Manage, then clicking SLA, then clicking Add New SLA Plan.
