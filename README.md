@@ -25,74 +25,70 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles
 - Configure Departments
 - Configure Teams
-- Configure Availability
 - Configure Agents(workers)
 - Configure Users(customers)
 - Configure SLA
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Configure Roles
+Glad to see you got through the grueling process of installing osTicket! Now we can configure some roles and other details for usability. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/75d5bd36-2c67-475e-b0a5-fffadc75b0fa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Departments
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This is the view for the Admin Panel. Here, you can add/remove agents, departments, teams, and roles. 
 </p>
 <p>
-Configure Teams
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b248ebfa-0611-49a9-a623-f65b74d0961a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Availability
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Let's show how to configure roles. First, click Roles (physically located under the Settings tab). We'll add a new role called "Supreme Admin" that has access to everything.
 </p>
 <p>
-Configure Agents
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d2d4287f-108a-457f-8cbe-b3f8689fd0cc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Users
+<img src="https://github.com/user-attachments/assets/ed49f7de-74b2-4e41-a86e-032183e2e3bf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once you give your new role a name, go to the "Permissions" tab. There, you'll check every box. For future purposes, when you add a different role, you'll have to check and uncheck certain boxes depending on their accessibility and role in the company. Finish by clicking "Add Role" near the bottom.
+</p>
+<p>
+You would essentially follow this same process when adding a new Team, a new Department, or even a new Agent. 
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/0a2a986f-568f-48a0-9c06-b317ceb71f49" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+One thing you can do is allow any user to create tickets, whether they are registered or not. Go to Settings, and then Users. In this case, I have the box unchecked, thus allowing anyone to create a ticket. It's less work for me now, sure, but this is not good practice. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/bdca7f4f-2f68-441a-8ba0-390f13f5bbec" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure SLA
+To configure users, you must be in the Agent Panel, then click Users, then click Add User. Follow the on-screen instructions to add the user, including their email address. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![OS Ticket 7](https://github.com/user-attachments/assets/c177900e-d1d1-4fe6-b55c-d50170dd0156)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Help Topics
+Configuring SLA is as simple as going to the Admin Panel, clicking Manage, then clicking SLA, then clicking Add New SLA Plan.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/5ad4c809-3743-4e02-bc8a-9f12a83f196c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lastly, for configuring Help Topics, simply click on Help Topics under the same Manage tab, and click Add New Help Topic.
 </p>
 <br />
